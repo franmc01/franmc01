@@ -24,7 +24,6 @@ As I always say, help never hurts and each experience always brings new knowledg
 
 <h2>🚀 Some Tools I Use </h2>
 <p align="left">
-<hr />
 
 <a href="#" alt="javscript">
     <code>
@@ -86,6 +85,5 @@ As I always say, help never hurts and each experience always brings new knowledg
 <h2 style="margin-top: 20px">
     📈 My GitHub Stats
 </h2>
-<hr/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=franciscomarin98&show_icons=true&theme=gotham" alt="franciscomarin98" style="margin-top: 20px" />
