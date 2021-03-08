@@ -15,7 +15,6 @@ As I always say, help never hurts and each experience always brings new knowledg
 </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<hr />
 <ul>
 <li>🔭 I’m currently studying at <a href="http://espam.edu.ec/">Espam MFL</a>.</li>
 <li>🧐 Learning about <strong>frontend and backend development technologies tied to Javascript, TypeScript, etc.</strong></li>
