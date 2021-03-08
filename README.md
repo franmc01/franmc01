@@ -27,12 +27,12 @@ As I always say, help never hurts and each experience always brings new knowledg
 
 <a href="#" alt="javscript">
     <code>
-        <img height="25" style="margin-bottom: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+        <img height="25" style="margin-bottom: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
     </code>
 </a>
 <a href="#" alt="typescript">
     <code>
-        <img height="25" style="margin-bottom: 10px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">
+        <img height="25" style="margin-bottom: 15px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">
     </code>
 </a>
 <a href="#" alt="angular">
