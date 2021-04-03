@@ -18,7 +18,7 @@ As I always say, help never hurts and each experience always brings new knowledg
 <ul>
 <li>🔭 I’m currently studying at <a href="http://espam.edu.ec/">Espam MFL</a>.</li>
 <li>🧐 Learning about <strong>frontend and backend development technologies tied to Javascript, TypeScript, etc.</strong></li>
-<li>🌱 I’m currently learning <strong>ReactJs</strong> </li>
+<li>🌱 I’m currently learning <strong>Svelte JS</strong> </li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/franciscomarin98">Github</a>.</li>
 </ul>
 
@@ -33,6 +33,11 @@ As I always say, help never hurts and each experience always brings new knowledg
 <a href="#" alt="react">
     <code>
         <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </code>
+</a>
+<a href="#" alt="svelte">
+    <code>
+        <img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/svelte.svg">
     </code>
 </a>
 <a href="#" alt="node">
@@ -70,6 +75,13 @@ As I always say, help never hurts and each experience always brings new knowledg
         <img height="40" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg">
     </code>
 </a>
+<a href="#" alt="postman">
+    <code>
+        <img height="30" src="https://miro.medium.com/max/2904/1*fB3ZdkTPcu9uZF-CzX-3xQ.png">
+    </code>
+</a>
+
+
 <!-- badge_plugin_start -->
 
 <h2 style="margin-top: 20px">
