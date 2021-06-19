@@ -1,91 +1,48 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Francisco</h1>
-<h3 align="center">A passionate developer from Ecuador</h3>
-<p align="left" style="margin-top: 25px">
+<div align="center" style="width: 100%">
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" style="object-fit: contain"/>
+</div>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Francisco Marin</h1>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" style="margin-left: 50px;" />
+<!-- <h5 align="center">About Me</h5> -->
+<h4 align="center">A developer who loves to learn and create new things. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care a lot about the user experience and the quality of the code of the things that I build.
+I learned a lot from the open source community and I love doing the same with others.<h4/>
 
-My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care a lot about the user experience and the quality of the code of the things that I build.
+<br>
 
-I learned a lot from the open source community and I love doing the same with others.
-
-As I always say, help never hurts and each experience always brings new knowledge.
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=franciscomarin98" alt="franciscomarin98" /> 
-    <img src="https://img.shields.io/github/followers/franciscomarin98?label=follow&style=social" alt="franciscomarin98" />
+<h4 align="center">Some technologies, languages, frameworks that I have interacted with and use every day.<h4/>
+	
+<p align="center">
+	<img src="https://img.shields.io/badge/Html5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor" alt="css3" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor" alt="angular" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Vue.js-263238?style=for-the-badge&logo=vue.js&logoColor" alt="vue" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/React JS-1C1C1C?style=for-the-badge&logo=react&logoColor" alt="react" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/svelte%20-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/express.js%20-%23000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express.js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/webpack-2F4C84.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="webpack.js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="git" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="npm" />&nbsp;&nbsp;
 </p>
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently studying at <a href="http://espam.edu.ec/">Espam MFL</a>.</li>
-<li>🧐 Learning about <strong>frontend and backend development technologies tied to Javascript, TypeScript, etc.</strong></li>
-<li>🌱 I’m currently learning <strong>Svelte JS</strong> </li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/franciscomarin98">Github</a>.</li>
-</ul>
-
-<h2>🚀 Some Tools I Use </h2>
-<p align="left">
-
-<a href="#" alt="angular">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="react">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="svelte">
-    <code>
-        <img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/svelte.svg">
-    </code>
-</a>
-<a href="#" alt="node">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="express">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="laravel">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="nest">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="ionic">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="heroku">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="netlify">
-    <code>
-        <img height="40" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg">
-    </code>
-</a>
-<a href="#" alt="postman">
-    <code>
-        <img height="30" src="https://miro.medium.com/max/2904/1*fB3ZdkTPcu9uZF-CzX-3xQ.png">
-    </code>
-</a>
-
-
-<!-- badge_plugin_start -->
+</br>
 
 <h2 style="margin-top: 20px">
     📈 My GitHub Stats
 </h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=franciscomarin98&show_icons=true&theme=gotham" alt="franciscomarin98" style="margin-top: 20px" />
+
+</br>
