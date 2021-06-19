@@ -1,6 +1,4 @@
-<div align="center" style="width: 100%">
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" style="object-fit: contain"/>
-</div>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Francisco Marin</h1>
 
 <!-- <h5 align="center">About Me</h5> -->
