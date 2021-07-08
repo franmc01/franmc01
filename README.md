@@ -14,6 +14,7 @@ I learned a lot from the open source community and I love doing the same with ot
 	<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor" alt="css3" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Dart-1C2834?style=for-the-badge&logo=dart&logoColor" alt="dart" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor" alt="angular" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Vue.js-263238?style=for-the-badge&logo=vue.js&logoColor" alt="vue" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/React JS-1C1C1C?style=for-the-badge&logo=react&logoColor" alt="react" />&nbsp;&nbsp;
