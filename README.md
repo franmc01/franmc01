@@ -42,6 +42,6 @@ I learned a lot from the open source community and I love doing the same with ot
     📈 My GitHub Stats
 </h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=franciscomarin98&show_icons=true&theme=gotham" alt="francmarin98" style="margin-top: 20px" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=francmarin98&show_icons=true&theme=gotham" alt="francmarin98" style="margin-top: 20px" />
 
 </br>
