@@ -41,5 +41,4 @@ I learned a lot from the open source community and I love doing the same with ot
 	
 <div align="center">
 <img src="https://raw.githubusercontent.com/francmarin98/github-stats-transparent/output/generated/overview.svg" />	
-<img src="https://raw.githubusercontent.com/francmarin98/github-stats-transparent/output/generated/languages.svg" />	
 </div>
