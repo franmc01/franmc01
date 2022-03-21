@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Francisco Marin</h1>
+<h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <a href="https://github.com/francmarin98" target="_blank">Francisco Marín</a></h1>
 
 <!-- <h5 align="center">About Me</h5> -->
 <h4 align="center">A developer who loves to learn and create new things. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care a lot about the user experience and the quality of the code of the things that I build.
@@ -35,13 +35,4 @@ I learned a lot from the open source community and I love doing the same with ot
 	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="npm" />&nbsp;&nbsp;
 </p>
-
-</br>
-
-<h2 style="margin-top: 20px">
-    📈 My GitHub Stats
-</h2>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=francmarin98&show_icons=true&theme=gotham" alt="francmarin98" style="margin-top: 20px" />
-
 </br>
