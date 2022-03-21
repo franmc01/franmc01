@@ -14,12 +14,13 @@ I learned a lot from the open source community and I love doing the same with ot
 	<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor" alt="css3" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Dart-1C2834?style=for-the-badge&logo=dart&logoColor" alt="dart" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/SASS-D95496?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor" alt="angular" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Vue.js-263238?style=for-the-badge&logo=vue.js&logoColor" alt="vue" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/React JS-1C1C1C?style=for-the-badge&logo=react&logoColor" alt="react" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/svelte%20-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic" />&nbsp;&nbsp;	
+	<img src="https://img.shields.io/badge/flutter-2A78D8?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Dart-1C2834?style=for-the-badge&logo=dart&logoColor" alt="dart" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/express.js%20-%23000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express.js" />&nbsp;&nbsp;
@@ -31,8 +32,14 @@ I learned a lot from the open source community and I love doing the same with ot
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="git" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/WEBSTORM-323236?style=for-the-badge&logo=webstorm" alt="webstorm" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="npm" />&nbsp;&nbsp;
 </p>
 </br>
+	
+<div align="center">
+<img src="https://raw.githubusercontent.com/francmarin98/github-stats-transparent/output/generated/overview.svg" />	
+<img src="https://raw.githubusercontent.com/francmarin98/github-stats-transparent/output/generated/languages.svg" />	
+</div>
