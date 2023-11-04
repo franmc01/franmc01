@@ -1,44 +1,63 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Francisco Marin</h1>
 
-<h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <a href="https://github.com/francmarin98" target="_blank">Francisco Marín</a></h1>
-
-<!-- <h5 align="center">About Me</h5> -->
-<h4 align="center">A developer who loves to learn and create new things. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care a lot about the user experience and the quality of the code of the things that I build.
-I learned a lot from the open source community and I love doing the same with others.<h4/>
-
-<br>
-
-<h4 align="center">Some technologies, languages, frameworks that I have interacted with and use every day.<h4/>
-	
+<h2 align="center">Crafting Code Like an Artisan</h2>
 <p align="center">
-	<img src="https://img.shields.io/badge/Html5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor" alt="css3" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/SASS-D95496?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor" alt="angular" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Vue.js-263238?style=for-the-badge&logo=vue.js&logoColor" alt="vue" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/React JS-1C1C1C?style=for-the-badge&logo=react&logoColor" alt="react" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic" />&nbsp;&nbsp;	
-	<img src="https://img.shields.io/badge/flutter-2A78D8?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Dart-1C2834?style=for-the-badge&logo=dart&logoColor" alt="dart" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/express.js%20-%23000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express.js" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/webpack-2F4C84.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="webpack.js" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="git" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/WEBSTORM-323236?style=for-the-badge&logo=webstorm" alt="webstorm" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="npm" />&nbsp;&nbsp;
+  I'm not just a developer; I'm a relentless innovator and open source aficionado. In the universe of binaries and bug-fixes, I wield my keyboard to sculpt applications that don't just function—they perform like a symphony. My mantra? Dream. Code. Iterate. Improve.
 </p>
-</br>
-	
-<div align="center">
-<img src="https://raw.githubusercontent.com/francmarin98/github-stats-transparent/output/generated/overview.svg" />	
-</div>
+
+<p align="center">
+  Whether it's contributing to the fabric of open source or collaborating with fellow code crusaders, I thrive on exchange of ideas and building something bigger than bytes.
+</p>
+
+<h3 align="center">🚀 Tech Stacks and Tools 🛠️</h3>
+<p align="center">
+  Here's a constellation of technologies I've mastered and wield daily in my quest to make the digital realm a little more human-friendly.
+</p>
+
+<p align="center">
+  <!-- Grouped badges by type -->
+  <strong>Frontend:</strong><br/>
+  <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/React_JS-1C1C1C?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-263238?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />&nbsp;
+  <!-- ... other frontend technologies ... -->
+</p>
+
+<p align="center">
+  <strong>Backend & Database:</strong><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+  <!-- ... other backend and database technologies ... -->
+</p>
+
+<p align="center">
+  <strong>Mobile Development:</strong><br/>
+  <img src="https://img.shields.io/badge/React_Native-2C2C2C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-2A78D8?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
+  <img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />&nbsp;
+  <!-- ... other mobile development technologies ... -->
+</p>
+
+<p align="center">
+  <strong>Tools & Others:</strong><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />&nbsp;
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />&nbsp;
+  <img src="https://img.shields.io/badge/WebStorm-323236?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
+  <!-- ... other tools and technologies ... -->
+</p>
+
+<h2 align="center">📈 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankops11&show_icons=true&theme=gotham" alt="frankops11" />
+</p>
+
