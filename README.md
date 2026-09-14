@@ -32,36 +32,38 @@
 
 <h3 align="center">Open source</h3>
 
-<table width="100%">
+<div align="center">
+<table>
   <thead>
     <tr>
-      <th align="left" width="40%">Project</th>
-      <th align="left" width="60%">Contribution</th>
+      <th align="center">Project</th>
+      <th align="center">Contribution</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/angular/angular"><strong>angular/angular</strong></a></td>
-      <td>Docs &amp; Signal Forms — upstream into Google's flagship framework</td>
+      <td align="center"><a href="https://github.com/angular/angular"><strong>angular/angular</strong></a></td>
+      <td align="center">Docs &amp; Signal Forms — upstream into Google's flagship framework</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/facebook/docusaurus"><strong>facebook/docusaurus</strong></a></td>
-      <td>Theme config documentation for Meta's docs platform</td>
+      <td align="center"><a href="https://github.com/facebook/docusaurus"><strong>facebook/docusaurus</strong></a></td>
+      <td align="center">Theme config documentation for Meta's docs platform</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/primefaces/primereact"><strong>primefaces/primereact</strong></a></td>
-      <td>Components, APIs &amp; docs across multiple releases</td>
+      <td align="center"><a href="https://github.com/primefaces/primereact"><strong>primefaces/primereact</strong></a></td>
+      <td align="center">Components, APIs &amp; docs across multiple releases</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Hacker0x01/react-datepicker"><strong>Hacker0x01/react-datepicker</strong></a></td>
-      <td>Calendar icon UX used across the React ecosystem</td>
+      <td align="center"><a href="https://github.com/Hacker0x01/react-datepicker"><strong>Hacker0x01/react-datepicker</strong></a></td>
+      <td align="center">Calendar icon UX used across the React ecosystem</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/damiant/vscode-webnative"><strong>damiant/vscode-webnative</strong></a></td>
-      <td>First-class Cursor editor support</td>
+      <td align="center"><a href="https://github.com/damiant/vscode-webnative"><strong>damiant/vscode-webnative</strong></a></td>
+      <td align="center">First-class Cursor editor support</td>
     </tr>
   </tbody>
 </table>
+</div>
 
 ---
 
