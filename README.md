@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/franmc01"><img src="https://img.shields.io/badge/GitHub-franmc01-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/francisco-marin-89a3a3152/"><img src="https://img.shields.io/badge/LinkedIn-francisco_marin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/franmc0111"><img src="https://img.shields.io/badge/X-franmc0111-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://img.shields.io/badge/Based_in-Ecuador-FFD100?style=for-the-badge" alt="Ecuador" />
   <img src="https://img.shields.io/badge/Open_to-Relocate-22C55E?style=for-the-badge" alt="Open to relocate" />
 </p>
@@ -29,13 +26,36 @@ Beyond company work, I contribute upstream to frameworks used by millions of dev
 
 ### Open source
 
-| Project | Contribution |
-| --- | --- |
-| [angular/angular](https://github.com/angular/angular) | Docs & Signal Forms |
-| [facebook/docusaurus](https://github.com/facebook/docusaurus) | Theme config documentation |
-| [primefaces/primereact](https://github.com/primefaces/primereact) | Components, APIs & docs |
-| [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) | Calendar icon UX |
-| [damiant/vscode-webnative](https://github.com/damiant/vscode-webnative) | Cursor editor support |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="40%">Project</th>
+      <th align="left" width="60%">Contribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/angular/angular"><strong>angular/angular</strong></a></td>
+      <td>Docs &amp; Signal Forms — upstream into Google's flagship framework</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/facebook/docusaurus"><strong>facebook/docusaurus</strong></a></td>
+      <td>Theme config documentation for Meta's docs platform</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/primefaces/primereact"><strong>primefaces/primereact</strong></a></td>
+      <td>Components, APIs &amp; docs across multiple releases</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Hacker0x01/react-datepicker"><strong>Hacker0x01/react-datepicker</strong></a></td>
+      <td>Calendar icon UX used across the React ecosystem</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/damiant/vscode-webnative"><strong>damiant/vscode-webnative</strong></a></td>
+      <td>First-class Cursor editor support</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -155,17 +175,4 @@ Beyond company work, I contribute upstream to frameworks used by millions of dev
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=franmc01&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="franmc01 GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmc01&layout=compact&theme=gotham" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franmc01&theme=gotham" alt="GitHub streak" />
 </p>
