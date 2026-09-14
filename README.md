@@ -14,17 +14,23 @@
 
 ---
 
-### About
+<h3 align="center">About</h3>
 
-I'm the **Owner of Katarion S.A.S**. I don't just write code — I **build products**, **lead engineering**, and take ideas from zero to production. Based in **Ecuador**, open to **relocate**.
+<p align="center">
+  I'm the <strong>Owner of Katarion S.A.S</strong>. I don't just write code — I <strong>build products</strong>, <strong>lead engineering</strong>, and take ideas from zero to production. Based in <strong>Ecuador</strong>, open to <strong>relocate</strong>.
+</p>
 
-At Katarion I design and ship platforms end-to-end: scalable **NestJS** APIs on **PostgreSQL**, **Next.js** web apps with **PrimeReact** / **PrimeVue**, and **React Native** mobile experiences styled with **NativeWind**. I also specialize in **agentic AI** — agents, skills, MCP, and automation workflows — using tools like **Cursor**, **Claude**, **Codex**, and **OpenCode** every day.
+<p align="center">
+  At Katarion I design and ship platforms end-to-end: scalable <strong>NestJS</strong> APIs on <strong>PostgreSQL</strong>, <strong>Next.js</strong> web apps with <strong>PrimeReact</strong> / <strong>PrimeVue</strong>, and <strong>React Native</strong> mobile experiences styled with <strong>NativeWind</strong>. I also specialize in <strong>agentic AI</strong> — agents, skills, MCP, and automation workflows — using tools like <strong>Cursor</strong>, <strong>Claude</strong>, <strong>Codex</strong>, and <strong>OpenCode</strong> every day.
+</p>
 
-Beyond company work, I contribute upstream to frameworks used by millions of developers (**Angular**, **Docusaurus**, **PrimeReact**), because the best way to grow as an engineer is to improve the tools the industry runs on.
+<p align="center">
+  Beyond company work, I contribute upstream to frameworks used by millions of developers (<strong>Angular</strong>, <strong>Docusaurus</strong>, <strong>PrimeReact</strong>), because the best way to grow as an engineer is to improve the tools the industry runs on.
+</p>
 
 ---
 
-### Open source
+<h3 align="center">Open source</h3>
 
 <table width="100%">
   <thead>
@@ -59,7 +65,7 @@ Beyond company work, I contribute upstream to frameworks used by millions of dev
 
 ---
 
-### Tech stack
+<h3 align="center">Tech stack</h3>
 
 <p align="center"><strong>Languages & Runtimes</strong></p>
 <p align="center">
