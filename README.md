@@ -1,63 +1,171 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Francisco Marin</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Francisco Marín
+</h1>
 
-<h2 align="center">Crafting Code Like an Artisan</h2>
 <p align="center">
-  I'm not just a developer; I'm a relentless innovator and open source aficionado. In the universe of binaries and bug-fixes, I wield my keyboard to sculpt applications that don't just function—they perform like a symphony. My mantra? Dream. Code. Iterate. Improve.
+  <strong>Owner & Founder of <a href="https://github.com/katarion">Katarion S.A.S</a></strong><br/>
+  I ship products, lead engineering, and contribute upstream to the frameworks the industry runs on.
 </p>
 
 <p align="center">
-  Whether it's contributing to the fabric of open source or collaborating with fellow code crusaders, I thrive on exchange of ideas and building something bigger than bytes.
+  <a href="https://github.com/franmc01"><img src="https://img.shields.io/badge/GitHub-franmc01-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/francisco-marin-89a3a3152/"><img src="https://img.shields.io/badge/LinkedIn-francisco_marin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/franmc0111"><img src="https://img.shields.io/badge/X-franmc0111-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Ecuador-FFD100?style=for-the-badge" alt="Ecuador" />
+  <img src="https://img.shields.io/badge/Open_to-Relocate-22C55E?style=for-the-badge" alt="Open to relocate" />
 </p>
 
-<h3 align="center">🚀 Tech Stacks and Tools 🛠️</h3>
+---
+
+### About
+
+I'm the **Owner of Katarion S.A.S**. I don't just write code — I **build products**, **lead engineering**, and take ideas from zero to production. Based in **Ecuador**, open to **relocate**.
+
+At Katarion I design and ship platforms end-to-end: scalable **NestJS** APIs on **PostgreSQL**, **Next.js** web apps with **PrimeReact** / **PrimeVue**, and **React Native** mobile experiences styled with **NativeWind**. I also specialize in **agentic AI** — agents, skills, MCP, and automation workflows — using tools like **Cursor**, **Claude**, **Codex**, and **OpenCode** every day.
+
+Beyond company work, I contribute upstream to frameworks used by millions of developers (**Angular**, **Docusaurus**, **PrimeReact**), because the best way to grow as an engineer is to improve the tools the industry runs on.
+
+---
+
+### Open source
+
+| Project | Contribution |
+| --- | --- |
+| [angular/angular](https://github.com/angular/angular) | Docs & Signal Forms |
+| [facebook/docusaurus](https://github.com/facebook/docusaurus) | Theme config documentation |
+| [primefaces/primereact](https://github.com/primefaces/primereact) | Components, APIs & docs |
+| [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) | Calendar icon UX |
+| [damiant/vscode-webnative](https://github.com/damiant/vscode-webnative) | Cursor editor support |
+
+---
+
+### Tech stack
+
+<p align="center"><strong>Languages & Runtimes</strong></p>
 <p align="center">
-  Here's a constellation of technologies I've mastered and wield daily in my quest to make the digital realm a little more human-friendly.
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+</p>
+
+<p align="center"><strong>Frameworks</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Docusaurus" />
+</p>
+
+<p align="center"><strong>UI (Web)</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" alt="Less" />
+  <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/PrimeReact-DD0031?style=for-the-badge&logo=primereact&logoColor=white" alt="PrimeReact" />
+  <img src="https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="PrimeVue" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+<p align="center"><strong>UI (Mobile)</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" />
+  <img src="https://img.shields.io/badge/React_Native_Paper-6200EE?style=for-the-badge&logo=react&logoColor=white" alt="React Native Paper" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+<p align="center"><strong>Mobile</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+</p>
+
+<p align="center"><strong>APIs</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+<p align="center"><strong>Databases & ORM</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+</p>
+
+<p align="center"><strong>AI & Agents</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Cursor_Skills-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Skills" />
+  <img src="https://img.shields.io/badge/Agent_Skills-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" alt="Agent Skills" />
+  <img src="https://img.shields.io/badge/MCP-0A0A0A?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+</p>
+
+<p align="center"><strong>Cloud & DevOps</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<p align="center"><strong>Editors & AI coding</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+<p align="center"><strong>Tooling</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=franmc01&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="franmc01 GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmc01&layout=compact&theme=gotham" alt="Top languages" />
 </p>
 
 <p align="center">
-  <!-- Grouped badges by type -->
-  <strong>Frontend:</strong><br/>
-  <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/React_JS-1C1C1C?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-263238?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />&nbsp;
-  <!-- ... other frontend technologies ... -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franmc01&theme=gotham" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <strong>Backend & Database:</strong><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
-  <!-- ... other backend and database technologies ... -->
-</p>
-
-<p align="center">
-  <strong>Mobile Development:</strong><br/>
-  <img src="https://img.shields.io/badge/React_Native-2C2C2C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-2A78D8?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
-  <img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />&nbsp;
-  <!-- ... other mobile development technologies ... -->
-</p>
-
-<p align="center">
-  <strong>Tools & Others:</strong><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />&nbsp;
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />&nbsp;
-  <img src="https://img.shields.io/badge/WebStorm-323236?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
-  <!-- ... other tools and technologies ... -->
-</p>
-
-<h2 align="center">📈 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franmc01&show_icons=true&theme=gotham" alt="franmc01" />
-</p>
-
